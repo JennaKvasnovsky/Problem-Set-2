@@ -10,8 +10,7 @@ This document provides a comprehensive report and documentation for the code pro
 
 The code begins by loading an RGB image from a specified URL using OpenCV. The image is then displayed using both Matplotlib and OpenCV in Colab.
 
-```python
-# Section 1: Load RGB image from URL using OpenCV
+#Section 1: Load RGB image from URL using OpenCV
 # ...
 
 # Section 2: Plot the loaded image
@@ -19,7 +18,6 @@ The code begins by loading an RGB image from a specified URL using OpenCV. The i
 
 # Section 2: Display the loaded image using OpenCV in Colab
 # ...
-```
 
 ### Results:
 - Original Image Displayed
