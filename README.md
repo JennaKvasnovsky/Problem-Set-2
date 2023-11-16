@@ -65,7 +65,7 @@ plt.show()
 ---
 
 ## Link to Colab Notebook
-[OpenCV_Image_Processing.ipynb](link-to-your-colab-notebook)
+[[OpenCV_Image_Processing.ipynb](link-to-your-colab-notebook)](https://github.com/JennaKvasnovsky/Problem-Set-2/blob/main/PROBLEM_2.ipynb)
 
 ## Conclusion
 
