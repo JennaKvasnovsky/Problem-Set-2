@@ -1,8 +1,4 @@
 # Problem-Set-2
-Certainly! Here is your code organized in Markdown format:
-
----
-
 # Image Processing with OpenCV and Filters
 
 ## Introduction
@@ -74,7 +70,3 @@ plt.show()
 ## Conclusion
 
 This code provides a step-by-step demonstration of loading, processing, and visualizing images using OpenCV in Python. The application of convolution filters enhances the understanding of feature extraction in image processing.
-
----
-
-Please replace "link-to-your-colab-notebook" with the actual link to your Colab notebook or GitHub repository. If you have specific images, screenshots, or additional explanations you'd like to include, feel free to customize the Markdown accordingly.
